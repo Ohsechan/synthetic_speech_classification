@@ -1,4 +1,4 @@
-# synthetic_speech_classification
+# Synthetic Speech Classification
 ## 1. 프로젝트 요약
 ### 1-1. 설명
 합성 음성이 주어졌을 때 합성 방법에 따라 분류하고, 만약 가지고 있는 카테고리에 없는 분류 방법을 사용한 것이라면 unknown으로 분류하는 모델을 MATLAB 또는 Python을 이용하여 개발한다. 잡음, 압축과 같은 변형이 있는 합성 음성에서도 강건한 성능을 보여야 한다.
